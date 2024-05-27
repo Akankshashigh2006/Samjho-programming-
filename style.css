@@ -1,0 +1,23 @@
+*{
+  background-color: white;
+  font-family:monospace;
+
+}
+h1{
+  text-align: center;
+  
+}
+a{
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  border: 4px solid black;
+  border:width=20px,height=20px;
+  text-decoration:none;
+  
+}
+div{
+  text-align: center;
+  
+}
